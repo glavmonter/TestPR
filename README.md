@@ -1,2 +1,3 @@
 # TestPR
-Repository for learning Pull Requests
+
+Изучение работы с Pull Requests
